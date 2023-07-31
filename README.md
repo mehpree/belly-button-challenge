@@ -17,7 +17,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 - Push the above changes to GitHub.
 
 - Deploy the new repository to GitHub Pages.
-- 
+  
 ### Instructions
 Complete the following steps:
 
@@ -61,7 +61,7 @@ Complete the following steps:
 ### Advanced Challenge Assignment (Optional with no extra points earning)
 The following task is advanced and therefore optional.
 
- - Adapt the Gauge Chart from [https://plot.ly/javascript/gauge-charts/Links to an external site](https://plot.ly/javascript/gauge-charts/Links to an external site). to plot the weekly washing frequency of the individual.
+ - Adapt the Gauge Chart from [https://plot.ly/javascript/gauge-charts](https://plot.ly/javascript/gauge-charts). to plot the weekly washing frequency of the individual.
 
  - You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
