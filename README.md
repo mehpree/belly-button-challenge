@@ -74,7 +74,10 @@ The following task is advanced and therefore optional.
 
 ![image](https://github.com/mehpree/belly-button-challenge/assets/131678606/15a6c377-4c76-4649-b927-4f3d1d2dbf32)
 
-## Hints
+#### Hints
 Use console.log inside of your JavaScript code to see what your data looks like at each step.
 
 Refer to the [Plotly.js](https://plotly.com/javascript/) when building the plots.
+
+### References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
