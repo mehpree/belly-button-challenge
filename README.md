@@ -17,12 +17,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 - Push the above changes to GitHub.
 
 - Deploy the new repository to GitHub Pages.
-
-### Files
-- Download the following files to help you get started:
-
-- Module 14 Challenge filesLinks to an external site.
-
+- 
 ### Instructions
 Complete the following steps:
 
