@@ -1,3 +1,6 @@
+![image](https://github.com/mehpree/belly-button-challenge/assets/131678606/039a3f49-661d-4880-aff6-e528772a09f0)
+
+
 # belly-button-challenge
 
 ### Background
